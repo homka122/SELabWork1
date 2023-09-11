@@ -7,7 +7,7 @@ layout: default
 
 # Контакты
 - email: kombaev02@gmail.com
-- telegram: [@homka122][https://t.me/homka122]
+- telegram: [@homka122](https://t.me/homka122)
 - vk: [@zoriankazinski](https://vk.com/zoriankazinski)
 
 # Проекты

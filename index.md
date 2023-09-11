@@ -11,6 +11,6 @@ layout: default
 - vk: [@zoriankazinski](https://vk.com/zoriankazinski)
 
 # Проекты
-- socialHamster (github.com/homka122/socialHamster)
-- socialHamster (Frontend) (gitgub.com/homka122/socialHamsterFrontend)
+- [socialHamster](https://github.com/homka122/socialHamster)
+- [socialHamster(Frontend)](https://github.com/homka122/socialHamsterFrontend)
 
